@@ -66,6 +66,11 @@ Also targets tablet and initial work for mobile devices
 
 ---
 
+<br /><br />
+<img src="shot_enlightenment.jpg" />
+
+---
+
 # Timeline
 
 1997: Enlightenment 0.1 launched
@@ -104,27 +109,6 @@ Many different libraries (around 25)
 
 ---
 
-<!-- template: invert -->
-
-# Tizen
-
----
-
-<!-- template: default -->
-
-# Tizen (Mobile / IoT)
-
-A Samsung (and others, i.e. Intel) backed inititive to build an IoT stack on Linux. Currently a large part of Samsung product lineup and runs:
-
-* Smart phones
-* TVs
-* Watches
-* Fridges
-* Washing mashines (!?)
-
-
----
-
 <!-- template: normal -->
 
 # Applications
@@ -148,6 +132,40 @@ Rage is a video and audio player written with EFL with some extra bells and whis
 <p class="smaller">
 Complete IDE for Enlightenment and EFL development - a work in progress.
 </p>
+
+---
+
+<div style="text-align: center">
+<br /><br /><br /><br /><br />
+<img src="shot_terminology.jpg" />
+</div>
+
+---
+
+<!-- template: invert -->
+
+# Tizen
+
+---
+
+<!-- template: default -->
+
+# Tizen (Mobile / IoT)
+
+A Samsung (and others, i.e. Intel) backed inititive to build an IoT stack on Linux. Currently a large part of Samsung product lineup and runs:
+
+* Smart phones
+* TVs
+* Watches
+* Fridges
+* Washing mashines (!?)
+
+---
+
+<div style="text-align: center">
+<br /><br /><br /><br /><br />
+<img src="shot_tizen.jpg" />
+</div>
 
 ---
 
