@@ -25,7 +25,9 @@ Andrew Williams
 
 # Overview 
 
-Enlightenment started as a window manager for Linux back in 1997, created by rasterman around which a large community has been built. In 2002TODO work began on the next big release but many years later most folk assume it died. 
+Enlightenment started as a window manager for Linux back in 1997, created by rasterman around which a large community has been built.
+
+In 2003 work began on the next big release but many years later most folk assume it died. 
 
 And yet it lives...
 
@@ -153,26 +155,26 @@ Complete IDE for Enlightenment and EFL development - a work in progress.
 
 ## Packages or Download
 
-<p class="smaller">
+<p class="smaller link">
 https://phab.enlightenment.org/w/packaging_status/
 https://www.enlightenment.org/download
 </p>
 
 ## Git
 
-<p class="smaller">
+<p class="smaller link">
 https://git.enlightenment.org/
 </p>
 
 ## Efler
 
-<p class="smaller">
+<p class="smaller link">
 http://bit.ly/efler
 </p>
 
 ## Edi
 
-<p class="smaller">
+<p class="smaller link">
 http://edi-ide.com
 </p>
 
@@ -183,9 +185,14 @@ http://edi-ide.com
 * @\_Enlightenment\_
 * @ajwillia_ms
 * #e - irc.freenode.net
+* www.enlightenment.org
 
 <br />
 
 * andy@fossfi.sh
 * http://ajwillia.ms
-* http://andywilliams.me
+<div style="position: absolute; right: 0; bottom: -20pt;">
+
+![](logo_white_med.png)
+
+</div>
