@@ -1,0 +1,27 @@
+.slide {
+  background-image: url(logo_blue_bottom.png) !important;
+  background-repeat: no-repeat;
+  background-position: 110% 0;
+  background-color: #303030 !important;
+  color: #eeeeee !important;
+}
+  
+.slide a, .slide p.link {
+  color: #2288ee !important;
+  text-decoration: underline;
+}
+  
+.slide_wrapper[data-template~="invert"] .slide {
+  background-image: url(logo_white_bg.png) !important;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-color: #303030 !important;
+
+  color: #2288ee !important;
+}
+
+.slide code {
+  background-color: #202020 !important;
+  color: #ffffff !important;
+}
+
