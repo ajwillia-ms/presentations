@@ -25,15 +25,16 @@ Andrew Williams
 
 # Overview 
 
-Enlightenment started as a window manager for Linux back in 1997, created by rasterman around which a large community has been built.
+Enlightenment started as a window manager for Linux back in 1997.
+Created by rasterman (rasterman.com) and developed by nearly 100 authors.
 
-In 2003 work began on the next big release but many years later most folk assume it died. 
+In 2000 work began on the next big release but many years later most folk assume it died. 
 
 And yet it lives...
 
 ---
 
-# Enlightenment
+# TL;DR
 
 <br />
 <br />
@@ -62,7 +63,7 @@ And yet it lives...
 * Plugins & scripts
 * Highly configurable
 
-Also targets tablet and initial work for mobile devices
+Also on tablet and initial work for mobile devices
 
 ---
 
@@ -74,15 +75,16 @@ Also targets tablet and initial work for mobile devices
 # Timeline
 
 1997: Enlightenment 0.1 launched
-...
 1997: 0.13 released
 ...
 1999: 0.16 released
+2000: work begins on 0.17
 ...
-2003: 0.17 April fool
+2003: SlashDot 1.0 April fool
+...
 **2012**:  0.17 finally released
-...
 2013: 0.18 released
+
 And then every 12 months
 
 ---
@@ -111,11 +113,11 @@ Many different libraries (around 25)
 
 <!-- template: normal -->
 
-# Applications
+# Applications (> 25)
 
 ### Enlightenment
 <p class="smaller">
-The main usage of the EFL - obviously - now bigger, better and faster than ever.
+The main usage of the EFL - obviously - now bigger, better, faster and more themeable than ever.
 </p>
 
 ### Terminology
@@ -136,7 +138,7 @@ Complete IDE for Enlightenment and EFL development - a work in progress.
 ---
 
 <div style="text-align: center">
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 <img src="shot_terminology.jpg" />
 </div>
 
@@ -152,18 +154,19 @@ Complete IDE for Enlightenment and EFL development - a work in progress.
 
 # Tizen (Mobile / IoT)
 
-A Samsung (and others, i.e. Intel) backed inititive to build an IoT stack on Linux. Currently a large part of Samsung product lineup and runs:
+A Samsung, Intel, LG (and others) backed inititive to build an IoT stack on Linux.
+Currently a large part of Samsung product lineup including:
 
 * Smart phones
 * TVs
 * Watches
 * Fridges
-* Washing mashines (!?)
+* Digital Cameras
 
 ---
 
 <div style="text-align: center">
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 <img src="shot_tizen.jpg" />
 </div>
 
@@ -190,11 +193,8 @@ https://git.enlightenment.org/
 http://bit.ly/efler
 </p>
 
-## Edi
-
-<p class="smaller link">
-http://edi-ide.com
-</p>
+Many packages use bleeding edge git master
+\- but it is stable enough for day to day usage!
 
 ---
 
